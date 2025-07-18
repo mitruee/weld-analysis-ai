@@ -1,4 +1,4 @@
-# Computer Vision Weld Analysis 🚀  
+# Computer Vision Weld Analysis
 
 **MVP для кейс-чемпионата "TECH.SQUAD: МИССИЯ ИИ" (4 место)**
 
