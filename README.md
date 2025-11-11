@@ -45,7 +45,7 @@
 
 1) Клонируем репозиторий
 ```bash
-git clone https://github.com/EgorSinitsyn/AI_weld_analisys
+git clone https://github.com/mitruee/weld-analysis-ai
 cd AI_weld_analisys/
 ```
 2) Сборка и запуск приложения
